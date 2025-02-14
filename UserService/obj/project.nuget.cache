@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tM4MDuLML1M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrateur\\Desktop\\Dev\\Microservices\\TP_Microservices\\UserService\\UserService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrateur\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\Administrateur\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
