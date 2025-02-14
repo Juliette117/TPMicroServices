@@ -1,0 +1,11 @@
+server:
+  port: 8888
+
+spring: 
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://https://github.com/Juliette117/ServerConfigLibrary
+          clone-on-start: true
+          default-label: main
